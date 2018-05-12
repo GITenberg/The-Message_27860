@@ -1,0 +1,41 @@
+_repo: The-Message_27860
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brock, H. M. (Henry Matthew)
+    alias: Brock, Henry Matthew
+    birthdate: 1875
+    deathdate: 1960
+    gutenberg_agent_id: '32971'
+    url: http://www.gutenberg.org/2009/agents/32971
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dawson, A. J. (Alec John)
+    aliases:
+    - Dawson, Alec John
+    - Kerr, Howard
+    birthdate: 1872
+    deathdate: 1952
+    gutenberg_agent_id: '6572'
+    url: http://www.gutenberg.org/2009/agents/6572
+    wikipedia: http://en.wikipedia.org/wiki/Alec_John_Dawson
+description: A story about a successful invasion of Britain by Germany and of life
+  afterwards.
+gutenberg_issued: '2009-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27860'
+  lccn: 07038262
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Imaginary wars and battles -- Fiction'
+- !lcc 'PR'
+title: The Message
+url: http://www.gutenberg.org/ebooks/27860
